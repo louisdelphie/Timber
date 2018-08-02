@@ -1,6 +1,10 @@
 # Timber
 Timber is a project in the book Beginning C++ Game Programming By John Hornton.
 
+![alt text][book image]
+
+[book image]: https://github.com/louisdelphie/Timber/blob/master/Beginning_Cplusplus_game.png?raw=true "Beginning C++ Game Programming"
+
 In order to best follow this project I would recommend: [Beginning C++ Game Programming](https://www.packtpub.com/game-development/beginning-c-game-programming "Beginning C++ Game Programming")
 or if prefer videos try. [Beginning C++ Game Programming - Part 1 (Video)](https://www.packtpub.com/game-development/beginning-c-game-programming-part-1-video) and 
 [Beginning C++ Game Programming - Part 2 (Video)](https://www.packtpub.com/game-development/beginning-c-game-programming-part-2-video).
